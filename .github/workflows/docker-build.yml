@@ -1,5 +1,4 @@
-name: Build and Push to ECR TEST
-
+name: Build and Push to ECR TEST V2
 on:
   push:
     branches: [ "main" ]
