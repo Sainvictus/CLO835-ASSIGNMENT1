@@ -57,3 +57,4 @@ docker run -p 8080:8080 -e APP_COLOR=$APP_COLOR -e DBHOST=$DBHOST -e DBPORT=$DBP
 # Triggering GitHub Actions
 # Triggering GitHub Actions for Assignment 2
 # Triggering GitHub Actions for Assignment 2
+# Triggering GitHub Actions for Assignment 2
